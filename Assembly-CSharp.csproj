@@ -47,8 +47,6 @@
   <ItemGroup>
      <Compile Include="Assets\OldUIScene1.cs" />
      <Compile Include="Assets\OldUIScene2.cs" />
-     <Compile Include="Assets\Post.cs" />
-     <Compile Include="Assets\Pre.cs" />
      <Compile Include="Assets\datepuke.cs" />
      <Compile Include="Assets\spin.cs" />
  <Reference Include="UnityEngine.UI">
